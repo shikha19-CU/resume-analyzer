@@ -1,0 +1,2 @@
+We are looking for a Data Scientist with experience in Python, machine learning, NLP, and 
+data visualization tools like Tableau or Power BI. Experience in model deployment is a plus.
